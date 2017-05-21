@@ -3,7 +3,7 @@ This is the complete blog application in which there is frontend and Admin Panel
 
 ## Installation
 
-1. Download or Clone the repository
+1. Download or Clone the repository 
 2. Keep this project in server or XAMPP
 3. Upload the laravel.sql file in PHPMyAdmin
 4. Configure your database in .env file
